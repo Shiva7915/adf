@@ -1,0 +1,11 @@
+Transaction_ID,Date,Product,Quantity,Price,Total
+Store_A_001,2025-01-06,Camera,2,277,554
+Store_A_002,2025-01-01,Headphones,1,855,855
+Store_A_003,2025-01-04,Printer,2,897,1794
+Store_A_004,2025-01-04,Printer,5,759,3795
+Store_A_005,2025-01-08,Smartphone,4,247,988
+Store_A_006,2025-01-10,Headphones,1,523,523
+Store_A_007,2025-01-04,Camera,4,388,1552
+Store_A_008,2025-01-06,Camera,1,365,365
+Store_A_009,2025-01-03,Printer,3,797,2391
+Store_A_010,2025-01-05,Smartphone,4,739,2956

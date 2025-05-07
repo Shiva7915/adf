@@ -1,0 +1,11 @@
+Transaction_ID,Date,Product,Quantity,Price,Total
+Store_C_001,2025-01-09,Monitor,3,230,690
+Store_C_002,2025-01-05,Laptop,3,477,1431
+Store_C_003,2025-01-04,Mouse,1,198,198
+Store_C_004,2025-01-08,Laptop,2,674,1348
+Store_C_005,2025-01-06,Smartphone,1,834,834
+Store_C_006,2025-01-06,Tablet,3,223,669
+Store_C_007,2025-01-01,Keyboard,3,694,2082
+Store_C_008,2025-01-02,Tablet,4,839,3356
+Store_C_009,2025-01-06,Laptop,3,248,744
+Store_C_010,2025-01-10,Monitor,4,309,1236

@@ -1,0 +1,11 @@
+Transaction_ID,Date,Product,Quantity,Price,Total
+Store_B_001,2025-01-01,Mouse,2,733,1466
+Store_B_002,2025-01-05,Mouse,2,184,368
+Store_B_003,2025-01-08,Headphones,2,303,606
+Store_B_004,2025-01-04,Printer,4,424,1696
+Store_B_005,2025-01-03,Keyboard,4,874,3496
+Store_B_006,2025-01-08,Smartphone,3,147,441
+Store_B_007,2025-01-03,Keyboard,4,739,2956
+Store_B_008,2025-01-01,Speaker,1,231,231
+Store_B_009,2025-01-01,Printer,4,968,3872
+Store_B_010,2025-01-05,Smartphone,5,280,1400
